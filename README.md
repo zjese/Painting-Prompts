@@ -13,3 +13,14 @@
 ### example.3
 >**Prompt**: a girl, masterpiece, best quality, official art, extremely detailed CG unity 8K wallpaper, full body, looking at viewer, hand on own face, mouth mask<br>
 <div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/00086-2277825712-a%20girl%2C%20masterpiece%2C%20best%20quality%2C%20official%20art%2C%20extremely%20detailed%20CG%20unity%208K%20wallpaper%2C%20full%20body%2C%20looking%20at%20viewer%2C%20hand%20on.png" width="40%" height="40%"></div>
+
+## Buildings
+### example.1
+>**Prompt**: skyscraper, city, global, masterpiece<br>
+<div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/00119-3425024567-skyscraper%2C%20city%2C%20global%2C%20%20masterpiece%2C.png" width="40%" height="40%"></div>
+
+## City
+### example.1
+>**Prompt**: photo of Guangzhou city as a rich space colony with planet Earth seen behind it, futuristic, realistic, modern, shot from space<br>
+<div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/00122-4174242138-photo%20of%20Guangzhou%20city%20as%20a%20rich%20space%20colony%20with%20planet%20Earth%20seen%20behind%20it%2C%20futuristic%2C%20realistic%2C%20modern%2C%20shot%20from%20space.png" width="40%" height="40%"></div>
+
