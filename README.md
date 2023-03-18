@@ -17,6 +17,17 @@
 >**Negative**: (worst quality, normal quality, low quality:1.5), paintings, sketches, freckles, lowres, monochrome, grayscale, bad proportions, nsfw, nipples, watermark, signature, text, nsfw, curvy, plump, fat, muscular female, nude<br>
 <div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/00202-2430427721-_(photorealistic_1.3)%2C%20(intricate%20details_1.2)%2C%20small%20head_%2C%20upper%20shot%2C%20BREAK%2C%20_teenager%2C%20ultra%20high%20res%2C%208k%20uhd%2C%20dslr%2C%20film%20gr.png" width="40%" height="40%"></div>
 
+## Muti
+### example.1
+>**Prompt**: 5women, friends, cheerful, masterpiece, wind, sun, (blue sky), birds, extremely details, modern, 4k, bright, anime, Chinese style, wind, (clear face), (clear expression)<br>
+>**Negative**: (bad art), (deformed), (blurry face), grey, dark, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), ((ugly)), blurry, ((bad anatomy)), (((bad proportions))), ((extra limbs)), 6women<br>
+<div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/00431-750252636-5women%2C%20friends%2C%20%20cheerful%2C%20masterpiece%2C%20wind%2C%20sun%2C%20(blue%20sky)%2C%20birds%2C%20%20extremely%20details%2C%20modern%2C%204k%2C%20bright%2C%20anime%2C%20Chinese%20st.png" width="60%" height="60%"></div>
+
+### example.2
+>**Prompt**: (two lovers:1.5), cheerful, (a big lake:1.3), (one boat in the lake center:1.3), (lovers on the boat) , (woman in white dress), (man in black suit), (woman kiss man's cheek:1.2), (lovers holding hands), (woman close eyes), (flying birds), wind, (dusk:1.3), (the light of dusk shone on their faces:1.5), extremely details, modern, 4k, bright, anime, Japanese style, wind, (clear face), (clear expression),(man rowing boat:1.2), wave,<br>
+>**Negative**: (bad art), (deformed), (blurry face), grey, dark, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), ((ugly)), blurry, ((bad anatomy)), (((bad proportions))), ((extra limbs)), two boats, bad legs, water in boat, bare shoulder<br>
+<div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/00425-2684995547-(two%20lovers_1.5)%2C%20cheerful%2C%20(a%20big%20lake_1.3)%2C%20(one%20boat%20in%20the%20lake%20center_1.3)%2C%20(lovers%20on%20the%20boat)%20%2C%20(woman%20in%20white%20dress)%2C.png" width="60%" height="60%"></div>
+
 ## Scenes
 ### example.1
 >**Prompt**: upward slope, masterpiece, 1 main road, (cars:1.2), cherry, wind, sun, extremely details, modern, game cg, 4k, cherry trees, wind, sunlight, bright, colorful, realism, road, upward slope, detailed, sharp focus, Japanese style<br>
