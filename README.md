@@ -3,8 +3,9 @@
 
 ## Characters
 ### example.1
->**Prompt**: a girl, masterpiece, best quality, official art, extremely detailed CG unity 8K wallpaper, full body, looking at viewer, hand on own face<br>
-<div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/00072-937784036-a%20girl%2C%20masterpiece%2C%20best%20quality%2C%20official%20art%2C%20extremely%20detailed%20CG%20unity%208K%20wallpaper%2C%20full%20body%2C%20looking%20at%20viewer%2C%20hand%20on.png" width="40%" height="40%"></div>
+>**Prompt**: masterpiece, best quality, official art, extremely detailed CG unity 8K wallpaper, looking at viewer, mature female 1girl, official costume, multicolored hair, two-tone hair, brown hair, wearing pink glasses<br>
+>**Negative**: (worst quality, low quality:1.4), (depth of field, blurry:1.2), (greyscale, monochrome:1.1), 3D face, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, multiple view, Reference sheet, curvy, plump, fat, muscular female, strabismus, nsfw, nipple, navel, bare thighs, midriff, bare legs, hat,animal ears<br>
+<div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/00355-1753820093-mature%20female%201girl%2C%20official%20costume%2C%20multicolored%20hair%2C%20two-tone%20hair%2C%20brown%20hair%2C%20wearing%20pink%20glasses%2C.png" width="40%" height="40%"></div>
 
 ### example.2
 >**Prompt**: (masterpiece, realistic:1.4), (extremely intricate:1.2)>, close shot , portrait,(upper body:1.2), (from front:1.3), 191971 dress, backless dress, (long dress:1.2), very long hair, breasts, bare shoulders, sky, ocean, water, looking at viewer, italian, head tilt, wind, cloud, sunlight, outdoor, 1girl, solo, BREAK, cinematic light, ultra high res, 8k uhd, film grain, perfect anatomy, exquisitely detailed skin, best shadow, delicate, RAW,highres<br>
