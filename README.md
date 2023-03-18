@@ -1,5 +1,5 @@
 # Painting-Prompts
-## Organize and summarize the keywords of ai painting, collecting useful prompts
+## Organize and summarize the keywords of AI painting, collecting useful prompts
 
 ## Characters
 ### example.1
