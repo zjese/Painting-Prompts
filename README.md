@@ -32,13 +32,13 @@ cloud, formal, yellow eyes, floating object, gradient hair, suit, black hair, cl
 ### example.4
 >**Prompt**: a man, handsome, wearing glasses, working in office, in front of the computer, drinking a cup of coffee, (clear face), (clear expression), extremely details, modern, 4k, bright, anime<br>
 >**Negative**: (bad art), (deformed), (blurry face), grey, dark, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), ((ugly)), blurry, ((bad anatomy)), (((bad proportions))), ((extra limbs))<br>
-<div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/00435-2725649744-a%20man%2C%20handsome%2C%20wearing%20glasses%2C%20working%20in%20office%2C%20in%20front%20of%20the%20computer%2C%20drinking%20a%20cup%20of%20coffee%2C%20(clear%20face)%2C%20(clear%20ex.png" width="60%" height="60%"></div>
+<div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/ComfyUI_00065_.png" width="60%" height="60%"></div>
 
 ## Muti
 ### example.1
 >**Prompt**: 5women, friends, cheerful, masterpiece, wind, sun, (blue sky), birds, extremely details, modern, 4k, bright, anime, Chinese style, wind, (clear face), (clear expression)<br>
 >**Negative**: (bad art), (deformed), (blurry face), grey, dark, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), ((ugly)), blurry, ((bad anatomy)), (((bad proportions))), ((extra limbs)), 6women<br>
-<div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/00431-750252636-5women%2C%20friends%2C%20%20cheerful%2C%20masterpiece%2C%20wind%2C%20sun%2C%20(blue%20sky)%2C%20birds%2C%20%20extremely%20details%2C%20modern%2C%204k%2C%20bright%2C%20anime%2C%20Chinese%20st.png" width="60%" height="60%"></div>
+<div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/ComfyUI_00037_.png" width="60%" height="60%"></div>
 
 ### example.2
 >**Prompt**: (10students:1.5), students in a classroom,cheerful, extremely details, modern, 4k, bright, anime, best quality, (clear face), (clear expression)<br>
@@ -65,7 +65,7 @@ cloud, formal, yellow eyes, floating object, gradient hair, suit, black hair, cl
 ### example.2
 >**Prompt**: upward slope, masterpiece, 1 main road, (cars:1.2), cherry, wind, sun, extremely details, modern, game cg, 4k, cherry trees, wind, sunlight, bright, colorful, realism, road, upward slope, detailed, sharp focus, Japanese style<br>
 >**Negative**: (bad art), (deformed), blurry, grey, dark<br>
-<div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/00368-840804420-upward%20slope%2C%20masterpiece%2C%201%20main%20road%2C%20(cars_1.2)%2C%20cherry%2C%20wind%2C%20sun%2C%20extremely%20details%2C%20modern%2C%20game%20cg%2C%204k%2C%20cherry%20trees%2C%20win.png" width="60%" height="60%"></div>
+<div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/00277-4251221329-upward%20slope%2C%20masterpiece%2C%201%20main%20road%2C%20(cars_1.2)%2C%20cherry%2C%20wind%2C%20sun%2C%20extremely%20details%2C%20modern%2C%20game%20cg%2C%204k%2C%20cherry%20trees%2C%20win.png" width="80%" height="80%"></div>
 
 ### example.3
 >**Prompt**: upward slope, masterpiece, 1 main road, (cars:1.2), cherry, wind, sun, extremely details, modern, game cg, 4k, (cherry trees:1.2), pink, wind, sunlight, bright, colorful, realism, road, upward slope, detailed, sharp focus, Japanese style, anime, (1girl:1.2), 1girl stand on high, long hair, white dress, sun hat, wind<br>
