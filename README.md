@@ -1,6 +1,18 @@
 # Painting-Prompts
 ## Organize and summarize the keywords of AI painting, collecting useful prompts
 
+## Fantastic paintings using [ComfyUI](https://github.com/comfyanonymous/ComfyUI)(strongly recommended!)
+### example.1
+>**Prompt**: (solo:1.3) (best quality) (HDR:1.0) girl colourful of (flat chest:0.9), (extremely delicate and beautiful:1.2),1girl,fashi-girl, bangs, blue eyes, blurry, blurry background, bow, brown hair, closed mouth, from side, hair between eyes, hair bow, lantern, light particles, long sleeves, looking at viewer,medium hair, night, red bow, solo, star \(symbol\), upper body,smile,red lips, nature wilderness (sitting:1.3) on snow mountain peak, (:d:0.5) (blush:0.9), (winter:1.2), on landscape mountain in Switzerland alps sunset, comfortable, (spread legs:1.1), aerial view (cityscape:1.3) skyscrapers modern city satellite view, (sunset)<br>
+>**Negative**: (hands), text, error, cropped, (worst quality:1.2), (low quality:1.2), normal quality, (jpeg artifacts:1.3), signature, watermark, username, blurry<br>
+<div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/ComfyUI_00015_.png" width="80%" height="80%"></div>
+
+### example.2
+>**Prompt**: masterpiece, best quality,zhongli (genshin impact), male focus, jewelry, long hair, 1boy, solo, earrings, bangs, gloves, ponytail, black gloves, multicolored hair, brown hair, hair between eyes, simple background, single earring, thumb ring, jacket, tassel earrings, long sleeves, tassel, looking at viewer,
+cloud, formal, yellow eyes, floating object, gradient hair, suit, black hair, cloudy sky,(kbxll:0.6), nature wilderness (sitting:1.3) on snow mountain peak, (:d:0.5) (blush:0.9), (winter:1.2), on landscape mountain in Switzerland alps sunset, comfortable, (spread legs:1.1), aerial view (cityscape:1.3) skyscrapers modern city satellite view, (sunset)<br>
+>**Negative**: (hands), text, error, cropped, (worst quality:1.2), (low quality:1.2), normal quality, (jpeg artifacts:1.3), signature, watermark, username, blurry, artist name, monochrome, sketch, censorship, censor, (copyright:1.2), extra legs, (forehead mark) (depth of field) (emotionless) (penis) (pumpkin), (2girls:1.2), breasts, bare shoulders<br>
+<div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/ComfyUI_00027_.png" width="80%" height="80%"></div>
+
 ## Characters
 ### example.1
 >**Prompt**: masterpiece, best quality, official art, extremely detailed CG unity 8K wallpaper, looking at viewer, mature female 1girl, official costume, multicolored hair, two-tone hair, brown hair, wearing pink glasses<br>
