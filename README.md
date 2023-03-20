@@ -51,12 +51,23 @@ cloud, formal, yellow eyes, floating object, gradient hair, suit, black hair, cl
 <div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/00425-2684995547-(two%20lovers_1.5)%2C%20cheerful%2C%20(a%20big%20lake_1.3)%2C%20(one%20boat%20in%20the%20lake%20center_1.3)%2C%20(lovers%20on%20the%20boat)%20%2C%20(woman%20in%20white%20dress)%2C.png" width="60%" height="60%"></div>
 
 ## Scenes
+
 ### example.1
+>**Prompt**: nature wilderness, on snow mountain peak, (:d:0.5) (blush:0.9), (winter:1.2), on landscape mountain in Japanese alps sunset, comfortable, (spread legs:1.1), aerial view (cityscape:1.3) skyscrapers modern city satellite view, (sunset)<br>
+>**Negative**: (worst quality:1.2), (low quality:1.2), normal quality, (jpeg artifacts:1.3), signature, watermark, username, blurry, artist name, monochrome, sketch, censorship, censor, (copyright:1.2)<br>
+<div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/00270-2848265197-nature%20wilderness%2C%20on%20snow%20mountain%20peak%2C%20(_d_0.5)%20(blush_0.9)%2C%20(winter_1.2)%2C%20on%20landscape%20mountain%20in%20Japanese%20alps%20sunset%2C%20com.png" width="80%" height="80%"></div>
+
+### example.1-1
+>**Prompt**: (best quality) beautiful (HDR:1.2) (realistic:1.2) landscape breathtaking amazing view nature scenery photograph forest mountains ocean daytime night evening morning, (sky:1.2)<br>
+>**Negative**: (worst quality:1.2), (low quality:1.2), normal quality, (jpeg artifacts:1.3), signature, watermark, username, blurry, artist name, monochrome, sketch, censorship, censor, (copyright:1.2)<br>
+<div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/00271-4039298379-(best%20quality)%20beautiful%20(HDR_1.2)%20(realistic_1.2)%20landscape%20breathtaking%20amazing%20view%20nature%20scenery%20photograph%20forest%20mountain.png" width="80%" height="80%"></div>
+
+### example.2
 >**Prompt**: upward slope, masterpiece, 1 main road, (cars:1.2), cherry, wind, sun, extremely details, modern, game cg, 4k, cherry trees, wind, sunlight, bright, colorful, realism, road, upward slope, detailed, sharp focus, Japanese style<br>
 >**Negative**: (bad art), (deformed), blurry, grey, dark<br>
 <div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/00368-840804420-upward%20slope%2C%20masterpiece%2C%201%20main%20road%2C%20(cars_1.2)%2C%20cherry%2C%20wind%2C%20sun%2C%20extremely%20details%2C%20modern%2C%20game%20cg%2C%204k%2C%20cherry%20trees%2C%20win.png" width="60%" height="60%"></div>
 
-### example.2
+### example.3
 >**Prompt**: upward slope, masterpiece, 1 main road, (cars:1.2), cherry, wind, sun, extremely details, modern, game cg, 4k, (cherry trees:1.2), pink, wind, sunlight, bright, colorful, realism, road, upward slope, detailed, sharp focus, Japanese style, anime, (1girl:1.2), 1girl stand on high, long hair, white dress, sun hat, wind<br>
 >**Negative**: (bad art), (deformed), blurry, grey, dark, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), ((ugly)), blurry, ((bad anatomy)), (((bad proportions))), ((extra limbs))<br>
 <div align=center><img src="https://github.com/zjese/Painting-Prompts/blob/master/src/00372-888511377-upward%20slope%2C%20masterpiece%2C%201%20main%20road%2C%20(cars_1.2)%2C%20cherry%2C%20wind%2C%20sun%2C%20extremely%20details%2C%20modern%2C%20game%20cg%2C%204k%2C%20(cherry%20trees_1.2.png" width="60%" height="60%"></div>
